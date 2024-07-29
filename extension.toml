@@ -8,4 +8,4 @@ repository = "https://github.com/theoriginalstove/permify.zed"
 
 [grammars.perm]
 repository = "https://github.com/theoriginalstove/tree-sitter-perm"
-commit = "296f0c7c1af37707242d069b3b23c75cdd062f5e"
+commit = "dd24ae4abcc41c0a0a1526835a9abfe8ce96ff39"
