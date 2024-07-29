@@ -1,11 +1,11 @@
 id = "perm"
 name = "Perm"
 description = "Perm schema support for Permify schemas."
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["Steven Turturo <steven@dryheatlabs.com>"]
 repository = "https://github.com/theoriginalstove/permify.zed"
 
 [grammars.perm]
 repository = "https://github.com/theoriginalstove/tree-sitter-perm"
-commit = "661c6d5c928478889f6795e4cf791dfd90792672"
+commit = "df1793446aabba5b5cf64d42bbfe420203b7a0ac"
