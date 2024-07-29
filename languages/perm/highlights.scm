@@ -21,7 +21,16 @@
 
 (comment) @comment
 
+; relation definitions
 (relation_association) @type
+(relation_member) @type
+(relation_member
+    hash: "#" @punctuation.special
+    member: (identifier) @type.builtin)
+
+; rule definitions
+(rule_definition
+    name: (identifier) @function)
 
 [
   "boolean"
@@ -29,7 +38,3 @@
   "integer"
   "double"
 ] @type
-
-(relation_member
-    hash: "#" @punctuation.special
-    member: (identifier) @type.builtin)
