@@ -1,6 +1,11 @@
 # Perm extension for the Zed editor
 - Tree Sitter: [tree-sitter-perm](https://github.com/theoriginalstove/tree-sitter-perm)
 
+Modified example for Mercury from [Permify docs](https://docs.permify.co/getting-started/examples/mercury) with Gruvbox Dark Theme.
+
+![image](https://github.com/user-attachments/assets/3ca31781-a817-4a9d-ae2a-33c22fba4240)
+
+
 
 ## Installation
 
