@@ -9,8 +9,9 @@ Modified example for Mercury from [Permify docs](https://docs.permify.co/getting
 
 ## Installation
 
-Until the extension is accepted and the [PR](https://github.com/zed-industries/extensions/pull/1158) is merged into [the Zed extensions repo](https://github.com/zed-industries/extensions)
-manual installation as as `Dev Extension` is required.
+You can install this extension by searching for the Perm extension within Zed.
+
+### Manual Installation
 
 1. Clone this repo locally
 2. In the Extensions - `Install Dev Extension`
